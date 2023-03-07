@@ -1,7 +1,8 @@
 # cv_project
 ## 주제
 - 수천개 이상의 작은 이미지로 큰 하나의 이미지 만들기(Collage Mosaic Generator)
-- ![원본]('./target.jpg')
+- ![원본](target.jpg)
+- ![821](mosaic(821).jpeg)
 
 ## 방법
 1. 타겟 이미지 선정(유튜브 썸네일)
